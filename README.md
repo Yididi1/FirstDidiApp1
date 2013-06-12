@@ -1,4 +1,5 @@
-FirstDidiApp1
+FirstDidiApp-1
 =============
 
-Community Social Development 
+Community and Social Development,Industry Trade, Business Expansion.
+
